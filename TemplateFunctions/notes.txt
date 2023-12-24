@@ -1,0 +1,5 @@
+template - pattern / structure
+
+overload functions - same name, distinct parameter lists
+
+template functions
